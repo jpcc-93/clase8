@@ -1,3 +1,5 @@
+import problema1
+
 '''
 hasta ahora se a trabajado con variables que
 permiten almacenar un unico valor
@@ -47,3 +49,7 @@ if __name__ == '__main__':
     lista1 [0] = 1
     print()
     print(lista1[3])
+
+    print()
+
+    problema1.sumar_5_enteros()
